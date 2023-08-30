@@ -59,3 +59,23 @@ Este repositorio contiene una solución para el desafío técnico propuesto por 
    ```
 
 4. Envía la solicitud y obtén las entidades nombradas detectadas en cada oración.
+    ```json
+   {
+    "resultado": [
+        {
+            "entidades": {
+                "Apple": "ORG",
+                "Reino Unido": "LOC"
+            },
+            "oración": "Apple está buscando comprar una startup del Reino Unido por mil millones de dólares."
+        },
+        {
+            "entidades": {
+                "San Francisco": "LOC"
+            },
+            "oración": "San Francisco considera prohibir los robots de entrega en la acera."
+        }
+    ]
+}
+
+   ```
