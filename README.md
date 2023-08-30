@@ -76,6 +76,5 @@ Este repositorio contiene una solución para el desafío técnico propuesto por 
             "oración": "San Francisco considera prohibir los robots de entrega en la acera."
         }
     ]
-}
-
+   }
    ```
